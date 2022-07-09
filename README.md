@@ -7,4 +7,10 @@
 
 ### The current build only works locally
 
-###[Thikful](https://Thinkful.com) led me to create this app as my second capstone while enrolled. This app was created to test my abilities to create an application using React. Along with basic understandings of React, it tested my ability to debug efficiently withing my React application, and use React tools, such as `useState()` and `useEffect()` hooks.
+[Thikful](https://Thinkful.com) led me to create this app as my second capstone while enrolled. This app was created to test my abilities to create an application using React. Along with basic understandings of React, it tested my ability to debug efficiently withing my React application, and use React tools, such as `useState()` and `useEffect()` hooks.
+
+---
+
+## Screenshots
+---
+
